@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rajendraprasad-j/TempServer/issues"
   },
-  "homepage": "https://github.com/rajendraprasad-j/TempServer#readme"
+  "homepage": "https://github.com/rajendraprasad-j/TempServer#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
