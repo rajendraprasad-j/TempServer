@@ -1,7 +1,5 @@
 var express=require('express');
 var app=express();
-var routes=require('./routes/index.js');
-
 app.use(function (req, res, next) {
 
     // Website you wish to allow to connect
