@@ -1,0 +1,19 @@
+{
+  "name": "tempserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajendraprasad-j/TempServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajendraprasad-j/TempServer/issues"
+  },
+  "homepage": "https://github.com/rajendraprasad-j/TempServer#readme"
+}
